@@ -1,0 +1,1 @@
+assert(loadfile("D:\\GitHub\\FUN-MAP_AFG\\scripts\\dynamic\\dynamic_loader.lua"))()
